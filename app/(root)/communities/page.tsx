@@ -1,4 +1,4 @@
-export const Page = async() => {
+const Page = async() => {
   return (
     <section>
       <h1 className="head-text mb-10">
@@ -7,3 +7,5 @@ export const Page = async() => {
     </section>
   )
 }
+
+export default Page;
