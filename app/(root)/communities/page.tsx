@@ -7,5 +7,3 @@ export const Page = async() => {
     </section>
   )
 }
-
-export default Page
